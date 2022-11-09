@@ -1,0 +1,11 @@
+9 S
+S -> AB
+A -> a
+B -> b
+S -> RM
+M -> m
+R -> CD
+C -> EF
+E -> e
+F -> f
+

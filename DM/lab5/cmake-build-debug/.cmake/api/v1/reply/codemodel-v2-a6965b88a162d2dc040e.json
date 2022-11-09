@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "lab5",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "generate::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-generate-Debug-99167845c54fcbc9deea.json",
+					"name" : "generate",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "notMyTask3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-notMyTask3-Debug-403edcd06e2b0df84447.json",
+					"name" : "notMyTask3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task1-Debug-56538efe6356a5f7ca71.json",
+					"name" : "task1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task2-Debug-eb79fc5f2c81187a6e21.json",
+					"name" : "task2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task3-Debug-a41ff02571e33a402247.json",
+					"name" : "task3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "task4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-task4-Debug-eadfa2896ba647b3fa2c.json",
+					"name" : "task4",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/All/Stu/labs/DM/lab5/cmake-build-debug",
+		"source" : "C:/All/Stu/labs/DM/lab5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

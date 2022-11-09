@@ -1,0 +1,14 @@
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task1A.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task1B.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task1C.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task2A.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task1D.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task5A.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task1E.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task4A.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/task5B.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/generate.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/generate1D.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/correct1D.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/All/Stu/labs/Alg/lab2sem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
