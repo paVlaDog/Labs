@@ -1,0 +1,10 @@
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/A.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/B.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/C.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/D.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/E.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/F.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/G.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/H.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/All/Stu/labs/DM/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
